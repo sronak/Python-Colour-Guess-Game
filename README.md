@@ -2,8 +2,8 @@
 This is a simple colour guessing game implemented in Python. The game displays the name of a colour and the player has to guess the colour that corresponds to it. The game is played over a number of rounds and the player's score is recorded.
 
 ## Requirements
-Python 3.x
-tkinter package (should be included with most Python installations)
+- Python 3.x
+- tkinter package (should be included with most Python installations)
 
 ## Usage
 To start the game, run the following command:
